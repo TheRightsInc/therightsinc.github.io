@@ -125,7 +125,7 @@ body {
 .heading {
   margin-top: 0px;
   margin-bottom: 20px;
-  font-family: Inter, sans-serif;
+  font-family: Poppins, sans-serif;
   color: #00416f;
   font-size: 55px;
   line-height: 1;
@@ -1779,7 +1779,7 @@ body {
 
 .paragraph-3 {
   max-width: 520px;
-  font-family: Inter, sans-serif;
+  font-family: Poppins, sans-serif;
   color: #2f4858;
   font-size: 16px;
   font-weight: 400;
@@ -2056,6 +2056,10 @@ body {
 
 .paragraph-9 {
   color: #152128;
+}
+
+.body {
+  font-family: Poppins, sans-serif;
 }
 
 @media screen and (max-width: 991px) {
